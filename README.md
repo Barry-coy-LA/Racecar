@@ -15,6 +15,7 @@ The goal of the second stage is to achieve faster racing speeds. This stage incl
 
 ## Stage Three: SLAM Implementation and Map Comparison
 In the final stage of the project, we implement Simultaneous Localization and Mapping (SLAM) to ensure the vehicle travels along a chosen circuit without collision. Additionally, the accuracy and effectiveness of the constructed map are evaluated by comparing it with ground truth data.
+[Click here to watch the demo video](https://github.com/USERNAME/REPOSITORY_NAME/blob/main/assets/demo.mp4)
 
 ## Learning Objectives
 Through this project, participants will be able to:
