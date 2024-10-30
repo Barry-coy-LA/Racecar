@@ -1,0 +1,28 @@
+robot:
+  prior_prob: 0.5     
+  occupy_prob: 0.9    
+                      
+  free_prob: 0.35     
+
+  num_sensors: 60    
+  radar_length: 300  
+  radar_range: 310
+
+motion_model:
+  alpha1: 0.005
+  alpha2: 0.005
+
+measurement_model:
+  p_hit: 0.8
+  sigma_hit: 2
+  p_short: 0.05
+  p_max: 0.1
+  p_rand: 0.05
+  lambda_short: 0.15
+
+num_mode_samples: 30
+mode_sample_cov: [0.00005, 0.00005, 0.00001]
+
+output_path: "result/"
+
+    
